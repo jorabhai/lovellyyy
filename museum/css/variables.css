@@ -1,0 +1,47 @@
+/* ==========================================
+   THE MUSEUM RESERVED ONLY FOR YOU
+   Global Design Variables
+========================================== */
+
+:root {
+
+    /* ===== Colors ===== */
+
+    --bg-main: #f8f2e7;
+    --bg-secondary: #efe6d7;
+    --bg-dark: #241d19;
+
+    --gold: #c8a45d;
+    --gold-light: #e8c98a;
+
+    --rose: #d48b96;
+    --burgundy: #7a2f43;
+
+    --white: #ffffff;
+    --text-dark: #2d2a27;
+    --text-light: #fffdf9;
+
+    /* ===== Fonts ===== */
+
+    --font-title: "Cormorant Garamond", serif;
+    --font-body: "Poppins", sans-serif;
+    --font-hand: "Caveat", cursive;
+
+    /* ===== Border Radius ===== */
+
+    --radius-small: 10px;
+    --radius-medium: 18px;
+    --radius-large: 30px;
+
+    /* ===== Shadows ===== */
+
+    --shadow-soft: 0 10px 30px rgba(0,0,0,.12);
+    --shadow-glow: 0 0 30px rgba(200,164,93,.35);
+
+    /* ===== Animation ===== */
+
+    --transition-fast: .3s ease;
+    --transition-normal: .6s ease;
+    --transition-slow: 1.2s ease;
+
+}
